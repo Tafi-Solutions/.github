@@ -57,6 +57,7 @@ Selected projects, all live. Full list at [tafisolutions.com/portfolio](https://
 | [Elite Auto Group](https://elitegroup.md) | Website for construction logistics, equipment rental and sales |
 | [Floare Tu](https://floaretu.md) | Flower shop website with delivery across Moldova |
 | [Tierra](https://t.me/tierracomratbot) | Telegram loyalty bot for restaurant guests: stamps, rewards and offers |
+| [Methanol Institute](https://methanol.org) | Website design and development |
 
 <br/>
 
