@@ -32,7 +32,7 @@ Fleet platforms · Mobile apps · Accounting · Teltonika GPS devices
 | **Tafi Driver** | Truck drivers: navigation, task management, documents and delivery tracking | [![App Store](https://img.shields.io/badge/App_Store-0d1117?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/md/app/tafi-driver/id6757166450) | [![Google Play](https://img.shields.io/badge/Google_Play-0d1117?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tafisolutions.driver) |
 | **Tafi GPS** | Fleet managers: live map, history and alerts | [![App Store](https://img.shields.io/badge/App_Store-0d1117?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tafigps/id6762100198) | [![Google Play](https://img.shields.io/badge/Google_Play-0d1117?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tafisolutions.gps) |
 | **Tafi Mecanic** | Mechanics and inspectors: inspections, service logs and repair tracking | [![App Store](https://img.shields.io/badge/App_Store-0d1117?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tafi-mecanic/id6769323576) | [![Google Play](https://img.shields.io/badge/Google_Play-0d1117?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tafisolutions.mechanic) |
-| **Tafi Contabil** | Accountants and business owners in Moldova | Coming soon | Coming soon |
+| **Tafi Contabil** | Accountants and business owners in Moldova: e-Factura, payments, same data as the web app | [![App Store](https://img.shields.io/badge/App_Store-0d1117?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/md/app/tafi-contabil/id6817116149) | Coming soon |
 
 <sub>Apple and the Apple logo are trademarks of Apple Inc. App Store is a service mark of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC.</sub>
 
@@ -57,7 +57,7 @@ Selected projects, all live. Full list at [tafisolutions.com/portfolio](https://
 | [Elite Auto Group](https://elitegroup.md) | Website for construction logistics, equipment rental and sales |
 | [Floare Tu](https://floaretu.md) | Flower shop website with delivery across Moldova |
 | [Tierra](https://t.me/tierracomratbot) | Telegram loyalty bot for restaurant guests: stamps, rewards and offers |
-| [Methanol Institute](https://methanol.org) | Website design and development |
+| [MI — The Global Methanol Alliance](https://methanol.org) | Website design and development |
 
 <br/>
 
